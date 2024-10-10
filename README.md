@@ -38,12 +38,30 @@
 
 •	Gradle for dependency management
 
-## Output
+# Output
 
- #### #Report  &  Automation  Showcasing  of  Practice  webform  for  learners
+ ## #Report  &  Automation  Showcasing  of  Practice  webform  for  learners :
 
 ![WebFormReport](https://github.com/user-attachments/assets/ad7b8ca0-3492-4087-9af3-64085abb0c30) 
 
 https://github.com/user-attachments/assets/5e31164d-d0d5-4265-b763-f5116f55553b
+
+
+ 
+ 
+ ## #Report  &  Automation  Showcasing  of  Guest Registration Form :
+
+
+ ![GuestFormReport](https://github.com/user-attachments/assets/93414b90-9a2e-4888-a69f-846a045f2a34)
+
+
+
+
+ https://github.com/user-attachments/assets/135c3107-75b4-4356-8b57-e34b13e510ca
+
+
+
+
+
 
  
